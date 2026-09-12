@@ -1,0 +1,6 @@
+{
+  "name": "Coco Marine - Frutos do Mar Santos",
+  "description": "Alta gastronomia costeira e frutos do mar frescos no coração do Gonzaga, Santos. Reservas e cardápio requintado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
